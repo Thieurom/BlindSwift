@@ -9,13 +9,22 @@
 import BlindSwift
 
 let solution = Solution()
-let node = ListNode.from([1, 2, 3, 4, 5])!
 
+// TC1
+let node = ListNode.from([1, 2, 3, 4])!
 print(node)
+assert(solution.hasCycle(node) == false)
 
-let revesedNode = solution.reverseList(node)!
-print(revesedNode)
+// TC2
+let nodeA = ListNode(3)
+let nodeB = ListNode(2)
+let nodeC = ListNode(0)
+let nodeD = ListNode(-4)
 
-let revesedRevesedNode = solution.reverseList(revesedNode)!
-assert(node.description == revesedRevesedNode.description)
+nodeA.next = nodeB
+nodeB.next = nodeC
+nodeC.next = nodeD
+nodeD.next = nodeB
+
+assert(solution.hasCycle(nodeA) == true)
 //: [Next](@next)
