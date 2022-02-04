@@ -3,5 +3,6 @@
     <pages>
         <page name='ReverseLinkedList'/>
         <page name='LinkedListCycle'/>
+        <page name='MergeTwoSortedLists'/>
     </pages>
 </playground>
