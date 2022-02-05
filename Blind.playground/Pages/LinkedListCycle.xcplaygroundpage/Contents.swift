@@ -1,5 +1,4 @@
 //: [Previous](@previous)
-
 /*:
  ## [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
  [__Linked List__] [__Easy__]

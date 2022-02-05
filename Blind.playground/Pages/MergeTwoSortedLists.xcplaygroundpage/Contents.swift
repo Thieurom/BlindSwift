@@ -1,5 +1,4 @@
 //: [Previous](@previous)
-
 /*:
  ## [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
  [__Linked List__] [__Easy__]
@@ -10,7 +9,6 @@
 
  Return `the head of the merged linked list`.
  */
-
 import BlindSwift
 
 let solution = Solution()
@@ -20,5 +18,4 @@ let list2 = ListNode.from([1, 3, 5, 6])
 let mergedList = solution.mergeTwoLists(list1, list2)
 assert(mergedList != nil)
 print(mergedList!)
-
 //: [Next](@next)

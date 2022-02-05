@@ -1,5 +1,4 @@
 //: [Previous](@previous)
-
 /*:
  ## [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
  [__Linked List__] [__Easy__]
@@ -18,5 +17,4 @@ print(revesedNode)
 
 let revesedRevesedNode = solution.reverseList(revesedNode)!
 assert(node.description == revesedRevesedNode.description)
-
 //: [Next](@next)

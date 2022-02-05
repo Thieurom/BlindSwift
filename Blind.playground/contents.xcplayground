@@ -4,5 +4,6 @@
         <page name='ReverseLinkedList'/>
         <page name='LinkedListCycle'/>
         <page name='MergeTwoSortedLists'/>
+        <page name='MaximumDepthofBinaryTree'/>
     </pages>
 </playground>
