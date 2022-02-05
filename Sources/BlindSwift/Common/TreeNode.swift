@@ -43,3 +43,40 @@ extension TreeNode: CustomStringConvertible {
         return s
     }
 }
+
+extension TreeNode {
+    private func hasBothSides() -> Bool {
+        return left != nil && right != nil
+    }
+
+    private func insert(_ value: Int) {
+        if left == nil {
+            left = TreeNode(value)
+            return
+        }
+
+        if right == nil {
+            right = TreeNode(value)
+            return
+        }
+
+        if !left!.hasBothSides() {
+            left!.insert(value)
+        } else if !right!.hasBothSides() {
+            right!.insert(value)
+        } else {
+            left!.left!.insert(value)
+        }
+    }
+
+    public static func from(_ values: [Int]) -> TreeNode? {
+        guard let first = values.first else { return nil }
+
+        let root = TreeNode(first)
+        for value in values.dropFirst() {
+            root.insert(value)
+        }
+
+        return root
+    }
+}

@@ -6,5 +6,6 @@
         <page name='MergeTwoSortedLists'/>
         <page name='MaximumDepthofBinaryTree'/>
         <page name='SameTree'/>
+        <page name='InvertBinaryTree'/>
     </pages>
 </playground>
