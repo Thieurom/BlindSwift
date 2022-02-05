@@ -29,3 +29,17 @@ public class TreeNode {
         self.right = right
     }
 }
+
+extension TreeNode: CustomStringConvertible {
+    public var description: String {
+        var s = ""
+        if let left = left {
+            s += "(\(left.description)) <- "
+        }
+        s += "\(val)"
+        if let right = right {
+            s += " -> (\(right.description))"
+        }
+        return s
+    }
+}

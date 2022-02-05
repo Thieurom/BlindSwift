@@ -5,5 +5,6 @@
         <page name='LinkedListCycle'/>
         <page name='MergeTwoSortedLists'/>
         <page name='MaximumDepthofBinaryTree'/>
+        <page name='SameTree'/>
     </pages>
 </playground>
