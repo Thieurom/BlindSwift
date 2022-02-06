@@ -8,5 +8,6 @@
         <page name='SameTree'/>
         <page name='InvertBinaryTree'/>
         <page name='TwoSum'/>
+        <page name='BestTimeToBuyAndSellStock'/>
     </pages>
 </playground>
