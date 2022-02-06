@@ -14,11 +14,11 @@ import BlindSwift
 let solution = Solution()
 
 let nums1 = [2, 7, 11, 15]
-assert(solution.twoSum(nums1, 9) == [0, 1])
+assert(solution.twoSum3(nums1, 9) == [0, 1])
 
 let nums2 = [3, 2, 4]
-assert(solution.twoSum(nums2, 6) == [1, 2])
+assert(solution.twoSum3(nums2, 6) == [1, 2])
 
 let nums3 = [3, 3]
-assert(solution.twoSum(nums3, 6) == [0, 1])
+assert(solution.twoSum3(nums3, 6) == [0, 1])
 //: [Next](@next)
