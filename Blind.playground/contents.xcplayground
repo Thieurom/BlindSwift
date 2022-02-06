@@ -9,5 +9,6 @@
         <page name='InvertBinaryTree'/>
         <page name='TwoSum'/>
         <page name='BestTimeToBuyAndSellStock'/>
+        <page name='ContainsDuplicate'/>
     </pages>
 </playground>
