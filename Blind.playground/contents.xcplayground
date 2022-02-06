@@ -7,5 +7,6 @@
         <page name='MaximumDepthofBinaryTree'/>
         <page name='SameTree'/>
         <page name='InvertBinaryTree'/>
+        <page name='TwoSum'/>
     </pages>
 </playground>
