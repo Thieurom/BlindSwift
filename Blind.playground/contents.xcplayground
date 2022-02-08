@@ -10,5 +10,6 @@
         <page name='TwoSum'/>
         <page name='BestTimeToBuyAndSellStock'/>
         <page name='ContainsDuplicate'/>
+        <page name='ProductOfArrayExceptSelf'/>
     </pages>
 </playground>
