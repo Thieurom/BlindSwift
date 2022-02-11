@@ -12,5 +12,6 @@
         <page name='ContainsDuplicate'/>
         <page name='ProductOfArrayExceptSelf'/>
         <page name='FindMinimumInRotatedSortedArray'/>
+        <page name='LongestSubstringWithoutRepeatingCharacters'/>
     </pages>
 </playground>
