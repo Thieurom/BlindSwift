@@ -13,7 +13,7 @@
         <page name='ProductOfArrayExceptSelf'/>
         <page name='FindMinimumInRotatedSortedArray'/>
         <page name='LongestSubstringWithoutRepeatingCharacters'/>
-        <page name='LongestRepeatingCharacterReplacement'/>
         <page name='ValidAnagram'/>
+        <page name='GroupAnagrams'/>
     </pages>
 </playground>
