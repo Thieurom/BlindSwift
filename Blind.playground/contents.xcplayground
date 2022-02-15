@@ -15,5 +15,6 @@
         <page name='LongestSubstringWithoutRepeatingCharacters'/>
         <page name='ValidAnagram'/>
         <page name='GroupAnagrams'/>
+        <page name='ClimbingStairs'/>
     </pages>
 </playground>
