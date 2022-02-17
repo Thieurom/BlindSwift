@@ -13,7 +13,9 @@ extension Solution {
         if n == 1 { return 1 }
         return _climbStairs1(n - 1) + _climbStairs1(n - 2)
     }
+}
 
+extension Solution {
     // Top down memoization
     // Time: O(n)
     // Space: O(n)
@@ -21,19 +23,20 @@ extension Solution {
         var cache = Array(repeating: 0, count: n + 1)
         cache[0] = 1
         cache[1] = 1
-
-        func _climbStairs(_ n: Int, cache: inout [Int]) -> Int {
-            if cache[n] == 0 {
-                cache[n] = _climbStairs(n - 1, cache: &cache) + _climbStairs(n - 2, cache: &cache)
-            }
-
-            return cache[n]
-        }
-
         return _climbStairs(n, cache: &cache)
     }
 
-    // Iterative
+    fileprivate func _climbStairs(_ n: Int, cache: inout [Int]) -> Int {
+        if cache[n] == 0 {
+            cache[n] = _climbStairs(n - 1, cache: &cache) + _climbStairs(n - 2, cache: &cache)
+        }
+
+        return cache[n]
+    }
+}
+
+extension Solution {
+    // Iterative, bottom-up
     // Time: O(n)
     // Space: O(1)
     public func climbStairs(_ n: Int) -> Int {

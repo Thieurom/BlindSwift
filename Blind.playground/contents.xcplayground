@@ -16,5 +16,6 @@
         <page name='ValidAnagram'/>
         <page name='GroupAnagrams'/>
         <page name='ClimbingStairs'/>
+        <page name='CoinChange'/>
     </pages>
 </playground>
