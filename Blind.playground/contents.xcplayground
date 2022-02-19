@@ -17,5 +17,6 @@
         <page name='GroupAnagrams'/>
         <page name='ClimbingStairs'/>
         <page name='CoinChange'/>
+        <page name='BinaryTreeLevelOrderTraversal'/>
     </pages>
 </playground>
