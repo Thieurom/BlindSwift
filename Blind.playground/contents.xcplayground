@@ -18,5 +18,7 @@
         <page name='ClimbingStairs'/>
         <page name='CoinChange'/>
         <page name='BinaryTreeLevelOrderTraversal'/>
+        <page name='SubtreeOfAnotherTree'/>
+        <page name='ConstructBinaryTreeFromPreorderAndInorderTraversal'/>
     </pages>
 </playground>
