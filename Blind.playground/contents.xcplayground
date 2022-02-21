@@ -20,5 +20,7 @@
         <page name='BinaryTreeLevelOrderTraversal'/>
         <page name='SubtreeOfAnotherTree'/>
         <page name='ConstructBinaryTreeFromPreorderAndInorderTraversal'/>
+        <page name='ValidParentheses'/>
+        <page name='ValidateBinarySearchTree'/>
     </pages>
 </playground>
