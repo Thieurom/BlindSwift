@@ -22,5 +22,6 @@
         <page name='ConstructBinaryTreeFromPreorderAndInorderTraversal'/>
         <page name='ValidParentheses'/>
         <page name='ValidateBinarySearchTree'/>
+        <page name='ValidPalindrome'/>
     </pages>
 </playground>
