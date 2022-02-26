@@ -24,5 +24,6 @@
         <page name='ValidateBinarySearchTree'/>
         <page name='ValidPalindrome'/>
         <page name='LongestPalindromicSubstring'/>
+        <page name='PalindromicSubstrings'/>
     </pages>
 </playground>
