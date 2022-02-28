@@ -25,5 +25,6 @@
         <page name='ValidPalindrome'/>
         <page name='LongestPalindromicSubstring'/>
         <page name='PalindromicSubstrings'/>
+        <page name='KthSmallestElementInABST'/>
     </pages>
 </playground>
