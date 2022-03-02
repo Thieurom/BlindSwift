@@ -26,5 +26,6 @@
         <page name='LongestPalindromicSubstring'/>
         <page name='PalindromicSubstrings'/>
         <page name='KthSmallestElementInABST'/>
+        <page name='LowestCommonAncestorOfABinarySearchTree'/>
     </pages>
 </playground>
