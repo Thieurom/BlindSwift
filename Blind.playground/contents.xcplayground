@@ -29,5 +29,6 @@
         <page name='LowestCommonAncestorOfABinarySearchTree'/>
         <page name='LongestRepeatingCharacterReplacement'/>
         <page name='RemoveNthNodeFromEndOfList'/>
+        <page name='LongestCommonSubsequence'/>
     </pages>
 </playground>
