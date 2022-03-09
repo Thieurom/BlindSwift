@@ -30,5 +30,6 @@
         <page name='LongestRepeatingCharacterReplacement'/>
         <page name='RemoveNthNodeFromEndOfList'/>
         <page name='LongestCommonSubsequence'/>
+        <page name='LongestIncreasingSubsequence'/>
     </pages>
 </playground>
