@@ -31,5 +31,6 @@
         <page name='RemoveNthNodeFromEndOfList'/>
         <page name='LongestCommonSubsequence'/>
         <page name='LongestIncreasingSubsequence'/>
+        <page name='CombinationSumIV'/>
     </pages>
 </playground>
