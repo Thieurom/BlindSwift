@@ -32,5 +32,6 @@
         <page name='LongestCommonSubsequence'/>
         <page name='LongestIncreasingSubsequence'/>
         <page name='CombinationSumIV'/>
+        <page name='HouseRobber'/>
     </pages>
 </playground>
