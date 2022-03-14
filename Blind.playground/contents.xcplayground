@@ -34,5 +34,6 @@
         <page name='CombinationSumIV'/>
         <page name='HouseRobber'/>
         <page name='HouseRobberII'/>
+        <page name='MaximumSubarray'/>
     </pages>
 </playground>
