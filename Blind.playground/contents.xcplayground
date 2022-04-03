@@ -35,5 +35,6 @@
         <page name='HouseRobber'/>
         <page name='HouseRobberII'/>
         <page name='MaximumSubarray'/>
+        <page name='SearchInRotatedSortedArray'/>
     </pages>
 </playground>
