@@ -36,5 +36,6 @@
         <page name='HouseRobberII'/>
         <page name='MaximumSubarray'/>
         <page name='SearchInRotatedSortedArray'/>
+        <page name='NumberOf1Bits'/>
     </pages>
 </playground>
