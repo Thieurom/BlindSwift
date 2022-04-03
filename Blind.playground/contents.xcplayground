@@ -37,5 +37,6 @@
         <page name='MaximumSubarray'/>
         <page name='SearchInRotatedSortedArray'/>
         <page name='NumberOf1Bits'/>
+        <page name='MissingNumber'/>
     </pages>
 </playground>
