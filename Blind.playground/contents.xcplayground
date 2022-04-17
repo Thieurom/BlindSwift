@@ -40,5 +40,6 @@
         <page name='MissingNumber'/>
         <page name='InsertInterval'/>
         <page name='MergeIntervals'/>
+        <page name='Non-overlappingIntervals'/>
     </pages>
 </playground>
