@@ -39,5 +39,6 @@
         <page name='NumberOf1Bits'/>
         <page name='MissingNumber'/>
         <page name='InsertInterval'/>
+        <page name='MergeIntervals'/>
     </pages>
 </playground>
