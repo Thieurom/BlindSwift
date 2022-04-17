@@ -43,7 +43,7 @@ extension Solution {
             
             let middle = (start + end) / 2
             // The trick is using `>=` instead of `>` :)
-            if nums[middle] >= nums[0] {
+            if nums[middle] >= nums[start] {
                 start = middle + 1
             } else {
                 end = middle
