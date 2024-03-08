@@ -41,5 +41,6 @@
         <page name='InsertInterval'/>
         <page name='MergeIntervals'/>
         <page name='Non-overlappingIntervals'/>
+        <page name='LongestConsecutiveSequence'/>
     </pages>
 </playground>
