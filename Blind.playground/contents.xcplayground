@@ -43,5 +43,6 @@
         <page name='Non-overlappingIntervals'/>
         <page name='LongestConsecutiveSequence'/>
         <page name='3Sum'/>
+        <page name='ContainerWithMostWater'/>
     </pages>
 </playground>
