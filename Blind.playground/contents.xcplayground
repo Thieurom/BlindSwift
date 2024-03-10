@@ -42,5 +42,6 @@
         <page name='MergeIntervals'/>
         <page name='Non-overlappingIntervals'/>
         <page name='LongestConsecutiveSequence'/>
+        <page name='3Sum'/>
     </pages>
 </playground>
