@@ -44,5 +44,6 @@
         <page name='LongestConsecutiveSequence'/>
         <page name='3Sum'/>
         <page name='ContainerWithMostWater'/>
+        <page name='ReorderList'/>
     </pages>
 </playground>
