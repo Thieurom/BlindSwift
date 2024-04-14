@@ -45,5 +45,6 @@
         <page name='3Sum'/>
         <page name='ContainerWithMostWater'/>
         <page name='ReorderList'/>
+        <page name='DecodeWays'/>
     </pages>
 </playground>
