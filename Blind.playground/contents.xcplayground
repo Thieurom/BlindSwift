@@ -47,5 +47,6 @@
         <page name='ReorderList'/>
         <page name='DecodeWays'/>
         <page name='WordBreak'/>
+        <page name='UniquePaths'/>
     </pages>
 </playground>
