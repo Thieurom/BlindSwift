@@ -48,5 +48,6 @@
         <page name='DecodeWays'/>
         <page name='WordBreak'/>
         <page name='UniquePaths'/>
+        <page name='JumpGame'/>
     </pages>
 </playground>
