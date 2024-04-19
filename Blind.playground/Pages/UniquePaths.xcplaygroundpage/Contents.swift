@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 
 /*:
- ## [62. https://leetcode.com/problems/unique-paths/description/)
+ ## [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)
  [__Dynamic Programming__] [__Medium__]
  */
 import BlindSwift

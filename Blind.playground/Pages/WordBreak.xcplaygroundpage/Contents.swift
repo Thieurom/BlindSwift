@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 /*:
- ## [139. https://leetcode.com/problems/word-break/description/)
+ ## [139. Word Break](https://leetcode.com/problems/word-break/description/)
  [__Dynamic Programming__] [__Medium__]
  */
 import BlindSwift

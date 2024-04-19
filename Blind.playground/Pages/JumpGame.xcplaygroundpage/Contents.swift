@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 /*:
- ## [55. https://leetcode.com/problems/jump-game/description/)
+ ## [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
  [__Dynamic Programming__] [__Medium__]
  */
 import BlindSwift

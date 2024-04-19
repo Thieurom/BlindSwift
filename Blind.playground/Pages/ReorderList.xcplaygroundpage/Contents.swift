@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 /*:
- ## [143. https://leetcode.com/problems/reorder-list/description/)
+ ## [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
  [__Linked List__] [__Medium__]
  
  You are given the head of a singly linked-list. The list can be represented as:

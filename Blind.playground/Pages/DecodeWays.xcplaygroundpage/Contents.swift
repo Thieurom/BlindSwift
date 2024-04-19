@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 /*:
- ## [91. https://leetcode.com/problems/decode-ways/description/)
+ ## [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
  [__Dynamic Programming__] [__Medium__]
  */
 import BlindSwift
