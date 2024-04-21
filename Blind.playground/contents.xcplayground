@@ -49,5 +49,6 @@
         <page name='WordBreak'/>
         <page name='UniquePaths'/>
         <page name='JumpGame'/>
+        <page name='CloneGraph'/>
     </pages>
 </playground>
