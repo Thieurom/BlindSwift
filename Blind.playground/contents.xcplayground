@@ -50,5 +50,6 @@
         <page name='UniquePaths'/>
         <page name='JumpGame'/>
         <page name='CloneGraph'/>
+        <page name='BinaryTreeMaximumPathSum'/>
     </pages>
 </playground>
